@@ -1,15 +1,6 @@
 # Skin-Disease-Classification
 A Machine Learning model built for **"Classifying 21 Skin Diseases"**
 
----
-
-### **👥 Team Members**  
-
-| Name | GitHub Handle | Contribution |  
-|------|-------------|--------------|  
-
-
----
 
 ## **🎯 Project Highlights**  
 
